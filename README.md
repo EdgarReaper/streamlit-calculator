@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.56-red)
-[![Streamlit App](https://app-calculator-it4fezqspho4isybdsrpoe.streamlit.app)]
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://app-calculator-it4fezqspho4isybdsrpoe.streamlit.app))
 # 🧮 Styled Streamlit Calculator
 
 A simple and interactive calculator built with **Streamlit**, featuring a clean UI, custom styling, and calculation history.
