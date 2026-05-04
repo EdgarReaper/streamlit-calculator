@@ -128,7 +128,21 @@ buttons = [
 tab_calc, tab_hist = st.tabs(["Calculator", "History"])
 
 with tab_calc:
-    st.text_input("Result", value=st.session_state.dial, disabled=True, key="primary_dial")
+    st.markdown(f"""
+<div style="
+    background-color: #262730;
+    border: 2px solid #4B4B4B;
+    border-radius: 8px;
+    padding: 10px 16px;
+    text-align: right;
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 10px;
+">
+    {st.session_state.dial}
+</div>
+""", unsafe_allow_html=True)
 
     for linha in buttons:
         cols = st.columns(len(linha))
