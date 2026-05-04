@@ -26,7 +26,7 @@ A simple and interactive calculator built with **Streamlit**, featuring a clean 
 Clone the repository:
 
 ```bash
-git clone https://github.com/EdgarReaper/styled-streamlit-calculator.git
+git clone https://github.com/EdgarReaper/streamlit-calculator.git
 cd streamlit-calculator
 pip install streamlit
 streamlit run app.py
