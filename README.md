@@ -5,6 +5,8 @@
 
 A simple and interactive calculator built with **Streamlit**, featuring a clean UI, custom styling, and calculation history.
 
+> Built as a portfolio project to practice Streamlit, Python, and UI customization.
+
 ## 🚀 Features
 
 - Basic operations: addition, subtraction, multiplication, division
