@@ -28,6 +28,7 @@ git clone https://github.com/EdgarReaper/streamlit-calculator.git
 cd streamlit-calculator
 pip install streamlit
 streamlit run app.py
+´´´
 
 # 📁 Final Structure
 
