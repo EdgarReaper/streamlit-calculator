@@ -1,6 +1,14 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.56-red)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-calculator-it4fezqspho4isybdsrpoe.streamlit.app)
+```
+streamlit-calculator/
+│
+├── app.py
+├── README.md
+├── screenshot.png
+└── requirements.txt
+```
 # 🧮 Styled Streamlit Calculator
 
 A simple and interactive calculator built with **Streamlit**, featuring a clean UI, custom styling, and calculation history.
@@ -28,11 +36,3 @@ git clone https://github.com/EdgarReaper/streamlit-calculator.git
 cd streamlit-calculator
 pip install streamlit
 streamlit run app.py
-```
-streamlit-calculator/
-│
-├── app.py
-├── README.md
-├── screenshot.png
-└── requirements.txt
-```
