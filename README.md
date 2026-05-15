@@ -32,14 +32,3 @@ cd streamlit-calculator
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## 📁 Project Structure
-
-```
-streamlit-calculator/
-│
-├── app.py
-├── README.md
-├── screenshot.png
-└── requirements.txt
-```
